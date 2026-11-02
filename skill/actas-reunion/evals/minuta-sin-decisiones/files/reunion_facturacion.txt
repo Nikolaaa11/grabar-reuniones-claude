@@ -1,0 +1,16 @@
+Hablante 1: Ya, gracias por conectarse. La idea de hoy es solo contarles cómo va el cambio de sistema de facturación, no hay que decidir nada todavía.
+Hablante 2: Perfecto. ¿En qué van?
+Hablante 1: Terminamos de migrar los clientes de la zona sur. Faltan los de Santiago, que son como el sesenta por ciento.
+Hablante 3: ¿Y el costo? La última vez hablábamos de trescientas lucas mensuales.
+Hablante 1: Sigue en eso, trescientas lucas más o menos, pero el proveedor dijo que podría subir el próximo año. No tengo el número.
+Hablante 2: Yo podría revisar lo del contrato, para ver si hay cláusula de reajuste, pero no prometo nada porque estoy a full con el cierre.
+Hablante 3: Sería bueno, sí. Igual no es urgente.
+Hablante 1: Ahora, lo otro que les quería comentar es que hubo un par de errores con boletas duplicadas en octubre. Ya están corregidas, pero soporte sigue mirando por qué pasó.
+Hablante 3: ¿Afectó a muchos clientes?
+Hablante 1: A unos veinte, creo. No estoy seguro.
+Hablante 2: ¿Y cuándo se termina lo de Santiago?
+Hablante 1: Depende del proveedor. Antes decían diciembre, ahora no sé.
+Hablante 3: Ya. Y el jueves nos cuentas cómo va, ¿o no?
+Hablante 1: Sí, si es que tengo novedades, el jueves les cuento.
+Hablante 2: Oye, qué frío hace hoy, ¿ah?
+Hablante 3: Terrible. Ya, chao.

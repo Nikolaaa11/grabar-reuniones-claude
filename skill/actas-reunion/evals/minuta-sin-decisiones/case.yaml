@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: minuta-sin-decisiones
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  Una minuta breve que no invente decisiones, responsables, fechas ni nombres, con notas de revisión aparte.
